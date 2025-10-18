@@ -16,4 +16,12 @@ public interface ShopMapper extends BaseMapper<Shop> {
      */
     @Select("SELECT * FROM Shop ORDER BY sid LIMIT #{offset}, 5")
     List<Shop> selectShopsWithOffset(@Param("offset") Integer offset);
+    
+    /**
+     * 通过分类ID获取店铺信息
+     * @param cid 分类ID
+     * @return 店铺信息
+     */
+    @Select("SELECT s.* FROM Shop s INNER JOIN Category c ON s.sid = c.sid WHERE c.cid = #{cid}")
+    Shop selectShopByCategoryId(@Param("cid") Integer cid);
 }

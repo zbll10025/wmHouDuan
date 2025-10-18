@@ -61,6 +61,16 @@ public class ShopController {
         return ResponseEntity.ok(shops);
     }
 
+    @GetMapping("/by-category/{cid}")
+    @Operation(summary = "通过分类ID获取店铺信息", description = "根据分类的cid获取对应的店铺信息")
+    public ResponseEntity<Shop> getShopByCategoryId(@PathVariable Integer cid) {
+        Shop shop = shopMapper.selectShopByCategoryId(cid);
+        if (shop != null) {
+            return ResponseEntity.ok(shop);
+        }
+        return ResponseEntity.notFound().build();
+    }
+
     @DeleteMapping("/{id}")
     @Operation(summary = "删除店铺")
     public ResponseEntity<String> deleteShop(@PathVariable Integer id) {
