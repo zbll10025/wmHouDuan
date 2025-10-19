@@ -4,198 +4,99 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b850161a-e59c-4f46-947b-4b038affbde4" name="更改" comment="增加了获取商店的所有类型与商品的处理逻辑" />
+    <list default="true" id="e0b3344a-1dbb-4bb7-b8f6-212558f7d3a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/waimai/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/waimai/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/WaimaiApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/WaimaiApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/AddressController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/AddressController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/BillController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/BillController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/CategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/GoodsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/GoodsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/ShopController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/ShopController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/dto/CategoryWithGoodsDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/dto/CategoryWithGoodsDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/dto/OrderFlatRow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/dto/OrderFlatRow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/dto/OrderPayload.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/dto/OrderPayload.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/Address.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/Bill.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/Bill.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/Goods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/Goods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/Shop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/AddressMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/AddressMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/BillMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/BillMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/CategoryMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/CategoryMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/GoodsMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/GoodsMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/ShopMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/ShopMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2025-10-14T19-27-39_009.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2025-10-14T19-28-53_289.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.waimai.WaimaiApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.example.waimai.WaimaiApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/waimai/WaimaiApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/example/waimai/WaimaiApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/waimai-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/waimai-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/waimai-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/waimai-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="0cc98f3e4d4e80b73fa3d4676a1e49a5f7db4abc" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="HARD" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ZaKO-Z&quot;
+  }
 }</component>
-  <component name="ProjectId" id="342RlL6wWwAHIzVThX8IeRd3V68" />
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/zbll10025/wmHouDuan.git&quot;,
+    &quot;accountId&quot;: &quot;f9d0f77d-7dc7-4916-aa40-0dd81e4e4dbf&quot;
+  }
+}</component>
+  <component name="ProjectId" id="34Glf0LgVbXdUBfVVXPyyy7UUue" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.students-sigup [package].executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.WaimaiApplication.executor": "Run",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/DeVProject/waimaihouduan",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="WaimaiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="waimai" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.waimai.WaimaiApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
       </set>
     </attachedChunks>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="默认任务">
-      <changelist id="b850161a-e59c-4f46-947b-4b038affbde4" name="更改" comment="" />
-      <created>1760409832657</created>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0b3344a-1dbb-4bb7-b8f6-212558f7d3a5" name="Changes" comment="" />
+      <created>1760681492715</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1760409832657</updated>
-      <workItem from="1760409833800" duration="4424000" />
-      <workItem from="1760427871283" duration="3927000" />
-      <workItem from="1760444370149" duration="1058000" />
-      <workItem from="1760449462412" duration="203000" />
-      <workItem from="1760449678420" duration="1341000" />
-      <workItem from="1760493226549" duration="8337000" />
-      <workItem from="1760523879909" duration="7330000" />
-      <workItem from="1760580551361" duration="8876000" />
+      <updated>1760681492715</updated>
+      <workItem from="1760681494552" duration="5482000" />
     </task>
-    <task id="LOCAL-00001" summary="后端">
-      <option name="closed" value="true" />
-      <created>1760445265998</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1760445265998</updated>
-    </task>
-    <task id="LOCAL-00002" summary="1">
-      <option name="closed" value="true" />
-      <created>1760449714813</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1760449714813</updated>
-    </task>
-    <task id="LOCAL-00003" summary="1">
-      <option name="closed" value="true" />
-      <created>1760500967482</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1760500967482</updated>
-    </task>
-    <task id="LOCAL-00004" summary="刷新业务">
-      <option name="closed" value="true" />
-      <created>1760502093932</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1760502093932</updated>
-    </task>
-    <task id="LOCAL-00005" summary="刷新业务">
-      <option name="closed" value="true" />
-      <created>1760502385738</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1760502385738</updated>
-    </task>
-    <task id="LOCAL-00006" summary="订单状态从string改为int">
-      <option name="closed" value="true" />
-      <created>1760503974976</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1760503974976</updated>
-    </task>
-    <task id="LOCAL-00007" summary="增加了获取商店的所有类型与商品的处理逻辑">
-      <option name="closed" value="true" />
-      <created>1760585185401</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1760585185401</updated>
-    </task>
-    <task id="LOCAL-00008" summary="增加了获取商店的所有类型与商品的处理逻辑">
-      <option name="closed" value="true" />
-      <created>1760608784758</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1760608784758</updated>
-    </task>
-    <task id="LOCAL-00009" summary="增加了获取商店的所有类型与商品的处理逻辑">
-      <option name="closed" value="true" />
-      <created>1760608790211</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1760608790211</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$" />
-    </ignored-roots>
-    <MESSAGE value="后端" />
-    <MESSAGE value="1" />
-    <MESSAGE value="刷新业务" />
-    <MESSAGE value="订单状态从string改为int" />
-    <MESSAGE value="增加了获取商店的所有类型与商品的处理逻辑" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加了获取商店的所有类型与商品的处理逻辑" />
   </component>
 </project>

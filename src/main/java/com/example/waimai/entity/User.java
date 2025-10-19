@@ -14,6 +14,7 @@ public class User {
     
     private String password;
 
+    @TableField("telePhone")
     private String telePhone;
     
     private Float balance;
