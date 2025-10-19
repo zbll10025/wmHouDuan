@@ -5,42 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0b3344a-1dbb-4bb7-b8f6-212558f7d3a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/waimai/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/waimai/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/WaimaiApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/WaimaiApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/AddressController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/AddressController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/BillController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/BillController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/CategoryController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/GoodsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/GoodsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/waimai/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/waimai/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/ShopController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/ShopController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/dto/CategoryWithGoodsDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/dto/CategoryWithGoodsDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/dto/OrderFlatRow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/dto/OrderFlatRow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/dto/OrderPayload.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/dto/OrderPayload.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/Address.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/Bill.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/Bill.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/Category.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/Goods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/Goods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/Shop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/entity/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/AddressMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/AddressMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/BillMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/BillMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/CategoryMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/CategoryMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/GoodsMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/GoodsMapper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/ShopMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/ShopMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/waimai/mapper/UserMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2025-10-14T19-27-39_009.dumpstream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2025-10-14T19-28-53_289.dumpstream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.waimai.WaimaiApplicationTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.example.waimai.WaimaiApplicationTests.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/waimai/WaimaiApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/example/waimai/WaimaiApplicationTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/waimai-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/waimai-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/waimai-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/waimai-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,20 +31,35 @@
     &quot;accountId&quot;: &quot;f9d0f77d-7dc7-4916-aa40-0dd81e4e4dbf&quot;
   }
 }</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="34Glf0LgVbXdUBfVVXPyyy7UUue" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.WaimaiApplicationTests.executor": "Run",
+    "Spring Boot.WaimaiApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.waimai" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -93,6 +77,8 @@
       <option name="presentableId" value="Default" />
       <updated>1760681492715</updated>
       <workItem from="1760681494552" duration="5482000" />
+      <workItem from="1760853109720" duration="746000" />
+      <workItem from="1760874585838" duration="640000" />
     </task>
     <servers />
   </component>

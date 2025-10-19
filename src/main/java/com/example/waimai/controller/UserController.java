@@ -45,6 +45,8 @@ public class UserController {
         if (userMapper.selectOne(queryWrapper) != null) {
             return ResponseEntity.badRequest().body("用户名已存在");
         }
+        // 新注册用户余额默认设为0，不从前端接收
+        user.setBalance(0f);
         if (userMapper.insert(user) > 0) {
             return ResponseEntity.ok("用户创建成功");
         }
